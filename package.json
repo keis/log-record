@@ -13,13 +13,13 @@
     "standard-levels": "^1.0.0"
   },
   "devDependencies": {
-    "billom": "^1.0.2",
-    "chai": "^2.3.0",
-    "coffee-script": "^1.9.1",
+    "billom": "^1.2.0",
+    "chai": "^3.4.0",
+    "coffee-script": "~1.10.0",
     "coveralls": "^2.11.2",
     "docco": "^0.7.0",
-    "eslint": "^0.20.0",
-    "istanbul": "^0.3.13",
+    "eslint": "^1.9.0",
+    "istanbul": "^0.4.0",
     "matcha": "^0.6.0",
     "mocha": "^2.2.4",
     "sinon": "^1.14.1"
