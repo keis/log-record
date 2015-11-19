@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/keis/log-record.git"
   },
+  "files": [
+    "lib/log-record.js"
+  ],
   "dependencies": {
     "dateformat-light": "^1.0.14",
     "object-assign": "^4.0.0",
