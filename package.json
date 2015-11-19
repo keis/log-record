@@ -1,6 +1,6 @@
 {
   "name": "log-record",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple model for log records",
   "main": "lib/log-record",
   "repository": {
